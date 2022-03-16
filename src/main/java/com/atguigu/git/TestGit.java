@@ -7,6 +7,7 @@ package com.atguigu.git;
 public class TestGit {
     public static void main(String[] args) {
         System.out.println("hello,Git!");
-        System.out.println(1232414);
+        System.out.println("hello,get");
+        System.out.println(12124135);
     }
 }
